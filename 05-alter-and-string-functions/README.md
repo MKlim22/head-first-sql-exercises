@@ -1,4 +1,4 @@
-# ALTER Table & String Functions
+# 05 — ALTER Table & String Functions
 
 This folder contains practical SQL exercises focused on:
 - modifying existing table structures
