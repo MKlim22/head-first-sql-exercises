@@ -1,4 +1,4 @@
-# Module 06 – Advanced SELECT
+# 06 – Advanced SELECT
 
 This module focuses on more advanced `SELECT` queries in SQL.  
 It covers aggregation, grouping, ordering results, limiting output, and working with unique values.
